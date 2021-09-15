@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="ProgrammingTechnologies:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgrammingTechnologies_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ProgrammingTechnologies.jar">
+        <element id="module-output" name="ProgrammingTechnologies" />
+      </element>
+    </root>
+  </artifact>
+</component>
